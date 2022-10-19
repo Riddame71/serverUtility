@@ -1,0 +1,23 @@
+{
+  "name": "serverutility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riddame71/serverUtility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riddame71/serverUtility/issues"
+  },
+  "homepage": "https://github.com/Riddame71/serverUtility#readme",
+  "dependencies": {
+    "node-schedule": "^2.1.0",
+    "uuid": "^9.0.0"
+  }
+}

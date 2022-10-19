@@ -1,0 +1,20 @@
+[
+  {
+    "name": "95f14879-04bd-4bd5-9254-2b9a79675ca7",
+    "rule": "* * * * * *",
+    "funcName": "get-user-name-by-id",
+    "inputs": "{\"id\":1}"
+  },
+  {
+    "name": "57e9be92-8f3c-4ab0-a431-0d433733fad4",
+    "rule": "* * * * * *",
+    "funcName": "get-user-by-id-and-name",
+    "inputs": "{\"id\":2,\"name\":\"UMER\"}"
+  },
+  {
+    "name": "f2cceaab-5ffd-4c33-af8a-e213c69bba63",
+    "rule": "* * * * * *",
+    "funcName": "check-user-by-id",
+    "inputs": "{\"id\":4}"
+  }
+]
